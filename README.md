@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 079 篇 - 百家乐Ai预测分析工具：热点快讯与工具说明需要清楚分区](https://github.com/TGmszrcsz/baccarat-ai-079) ｜ [下一篇：第 081 篇 - 百家乐Ai预测分析工具：版本编号应与每条输出一起保存](https://github.com/TGmszrcsz/baccarat-ai-081)
+
+<!-- article-chain:end -->
+
 篇幅较长，读者找不到当前结论对应的例子与原图。本篇围绕“从文档导航检查整篇内容是否容易复查”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从页面现象追到实际含义
